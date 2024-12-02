@@ -1,0 +1,2 @@
+2024-12-02 23:19:17,345 [ERROR] Error loading model: [Errno 2] No such file or directory: 'model/best.pt'
+2024-12-02 23:19:51,296 [INFO] Loaded YOLOv8 model from model/best.pt
